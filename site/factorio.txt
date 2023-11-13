@@ -1,0 +1,8 @@
+<html>
+<head>
+<titler>как поиграть на пиратки по сети в factorio</title>
+</head>
+<bode>
+<table><tr><td><a href="png/factorio.jpg"></td></tr>
+<tr><td>здесь я раскаже как поиграть в factorio в мульти плэер(работое точно на пирате на щёт лицензии незнаю)<a href="../index.html">назад</a></td><td></td><td></td></tr></table>
+</html>
